@@ -1,2 +1,2 @@
-# wizard-country
+# Wizard Country
 TODO: description
